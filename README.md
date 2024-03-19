@@ -51,4 +51,4 @@ We welcome contributions! Please feel free to fork the project, make changes, an
 This project is licensed under the MIT License - see the LICENSE file for more details.
 ```
 
-Make sure to replace `<your-username>` with your actual GitHub username and ensure any paths or command snippets are accurate for your project's structure. This README.md file will serve as the front page for your GitHub repository, providing users with all the information they need to understand, install, and contribute to your project.
+Make sure to replace `<your-username>` with your actual GitHub username and ensure any paths or command snippets are accurate for your project's structure. 

@@ -1,8 +1,5 @@
-
 PyPDF2==1.26.0
 requests==2.25.1
 openai==0.10.2
 pinecone-client==2.0.3
 python-dotenv==0.19.1
-
-

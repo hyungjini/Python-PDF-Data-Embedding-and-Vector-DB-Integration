@@ -69,6 +69,9 @@ Make sure to replace `<your-username>` with your actual GitHub username and ensu
 
 ```
 
-#### Note: Remember to replace your-username with your actual GitHub username and verify that all paths and command snippets accurately reflect your project's structure.
+---
+
+**Note:** Remember to replace your-username with your actual GitHub username and verify that all paths and command snippets accurately reflect your project's structure.
 
 For further assistance or inquiries, feel free to reach out or contribute to the project.🙂
+---

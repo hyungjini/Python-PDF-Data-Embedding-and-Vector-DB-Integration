@@ -71,7 +71,7 @@ Make sure to replace `<your-username>` with your actual GitHub username and ensu
 
 ---
 
-🚀**Quick Setup Note:** Remember to replace **your-username** with your actual GitHub username and verify that all paths and command snippets accurately reflect your project's structure.
+🚀**Quick Setup Note:** Remember to replace **"your-username"** with your actual GitHub username and verify that all paths and command snippets accurately reflect your project's structure.
 
 💡 **Get Involved:** Are you a Python aficionado looking for assistance, wishing to contribute, or have queries about the project? Feel free to reach out or contribute to the project.🙂 
 

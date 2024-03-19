@@ -1,1 +1,21 @@
+Based on our discussions and the components involved in your project, your `requirements.txt` should include the necessary Python packages to run your PDF processing and data embedding system. This file will list all the dependencies along with their compatible versions to ensure that your project environment is reproducible and functions as intended. Below is a professionally compiled `requirements.txt` that reflects the discussed setup:
 
+```plaintext
+PyPDF2==1.26.0
+requests==2.25.1
+openai==0.10.2
+pinecone-client==2.0.3
+python-dotenv==0.19.1
+```
+
+Here's a breakdown of each package and its role within your project:
+
+- **PyPDF2**: A pure-Python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files. It is used for extracting text data from PDF documents.
+- **requests**: A simple, yet elegant HTTP library. Although not directly mentioned, it's commonly required for making API requests to external services such as OpenAI or Pinecone, hence its inclusion.
+- **openai**: This package allows you to easily interact with OpenAI's API, facilitating the process of embedding text data using state-of-the-art machine learning models.
+- **pinecone-client**: The official Pinecone client enables seamless integration with Pinecone's vector database, allowing you to store and retrieve high-dimensional vector data.
+- **python-dotenv**: A utility that reads key-value pairs from a `.env` file and can set them as environment variables. This is crucial for managing sensitive information such as API keys securely.
+
+Before adding these to your `requirements.txt`, ensure that each version listed is compatible with your project's Python version and does not conflict with each other. The versions specified above are examples and may need to be adjusted based on the latest releases or specific project requirements.
+
+To create your `requirements.txt`, simply copy the contents above into a new text file named `requirements.txt` in your project's root directory. This will allow anyone cloning your repository to easily install the necessary dependencies by running `pip install -r requirements.txt` in their virtual environment.

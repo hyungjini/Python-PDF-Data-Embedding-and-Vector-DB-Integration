@@ -63,11 +63,6 @@ Contributions are highly encouraged. Feel free to fork the project, implement yo
 ## License
 
 This project is distributed under the MIT License. See the LICENSE file for more details.
-```
-
-Make sure to replace `<your-username>` with your actual GitHub username and ensure any paths or command snippets are accurate for your project's structure. 
-
-```
 
 ---
 
